@@ -22,19 +22,18 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  z-index: 99;
 }
 
 h4 {
-  font-size: 66px;
+  font-size: 60px;
   font-weight: 400;
 }
 h6 {
-  font-size: 36px;
+  font-size: 32px;
   color: #c54700;
 }
 img {
-  height: 400px;
+  height: 300px;
   margin: 20px 0;
 }
 input {

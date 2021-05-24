@@ -51,7 +51,7 @@ const handleDogBreed = (e) => {
     count++;
   } else if (btnTarget.innerText === "Pat") {
     img.src = "img/pat.png";
-    dogStatus.innerText = `${dogName} love you brooo~~`;
+    dogStatus.innerText = `${dogName} love you~~`;
     btnTarget.className = "btnClicked";
     btns[0].className = "btnNotClicked";
     btns[1].className = "btnNotClicked";
