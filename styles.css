@@ -31,9 +31,11 @@ h4 {
 }
 h6 {
   font-size: 36px;
+  color: #c54700;
 }
 img {
-  width: 500px;
+  height: 400px;
+  margin: 20px 0;
 }
 input {
   color: #ff9d42;
@@ -68,4 +70,7 @@ button {
 }
 .hide {
   display: none;
+}
+.btnNotClicked {
+  background-color: #ff9d42;
 }
